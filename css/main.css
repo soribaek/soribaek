@@ -1402,8 +1402,8 @@ header .logo a {
 	position: absolute;
 	width: 100%;
 	left: 0;
-	bottom: 7.2rem;
-	font-size: 3.3rem;
+	bottom: 1rem;
+	font-size: 1rem;
 	margin: 0;
 	padding: 0;
 }
