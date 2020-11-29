@@ -170,7 +170,7 @@ em, i, strong, b {
 	font-weight: normal;
 }
 em, i {
-	font-family: "lora-italic", serif;
+	font-family: "poppins-italic", serif;
 }
 strong, b {
 	font-family: "poppins-bold", serif;
@@ -323,7 +323,7 @@ table {
 	border-width: 0;
 	width: 100%;
 	max-width: 100%;
-	font-family: "lora-regular", sans-serif;
+	font-family: "poppins-regular", sans-serif;
 }
 th, td {
 	padding: 1.5rem 3rem;
