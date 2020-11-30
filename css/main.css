@@ -153,8 +153,8 @@ p img {
 	margin: 0;
 }
 p.lead {
-	font-family: "poppins-bold", serif;
-	font-size: 2rem;
+	font-family: "poppins", serif;
+	font-size: 1.7rem;
 	line-height: 1.8;
 	color: #888888;
 }
@@ -1403,12 +1403,13 @@ header .logo a {
 	width: 100%;
 	left: 0;
 	bottom: 1rem;
-	font-size: 3rem;
+	font-size: 1.7rem;
 	margin: 0;
 	padding: 0;
+	font-family: "poppins-bold", sans-serif;
+	text-transform: uppercase;
 }
 .intro-social li {
-	font-family: "poppins-bold", sans-serif;
 	display: inline-block;
 	margin: 0 20px;
 	padding: 0;
