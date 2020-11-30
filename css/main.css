@@ -694,8 +694,9 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-	background: #313131;
-	color: #FFFFFF;
+	background: transparent !important;
+	border: 3px solid #313131;
+	line-height: 4.8rem;
 }
 .button.button-primary:hover,
 a.button.button-primary:hover,
@@ -708,7 +709,8 @@ button.button-primary:focus,
 input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
-	background: #1f1f1f;
+	border: 3px solid #9ee7f7;
+	color: #9ee7f7;
 }
 button.full-width, .button.full-width {
 	width: 100%;
